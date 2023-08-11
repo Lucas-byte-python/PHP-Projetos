@@ -11,7 +11,6 @@
     echo "<h2>Valores recebidos: $v e $z.";
     echo "<br>O valor absoluto: $v  é: ".abs($v);
     echo "<br>O valor de $v<sup>$z</sup> é: " .pow($v, $z);
-
 ?>
 </body>
 </html>

@@ -20,7 +20,6 @@
         echo "<br>A divisão dos valores é $div !";
         echo "<br>O resto da divisão dos valores é $mod !";
         echo "<br>A média de 2 e 6 é $med!";
-
     ?>    
 </body>
 </html>

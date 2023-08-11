@@ -16,5 +16,6 @@
         echo "<br>Salário = $sal<br>";
         echo $nome." tem ".$idade." anos ";
     ?>
+    
 </body>
 </html>
