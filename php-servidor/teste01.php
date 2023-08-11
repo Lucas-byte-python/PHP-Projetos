@@ -15,6 +15,5 @@ h2{
 <?PHP
     echo "<h2>Olá<br> Mundo!</h2>";
 ?>
-
 </body>
 </html>
