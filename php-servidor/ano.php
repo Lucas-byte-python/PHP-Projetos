@@ -5,9 +5,9 @@
     <title>Calculando Ano no PHP</title>
 </head>
 <body>
-<?php 
-    $atual = $_GET["ano"];
-    echo "O ano atual é $atual";
-?>
+    <?php 
+        $atual = $_GET["ano"];
+        echo "O ano atual é $atual";
+    ?>
 </body>
 </html>
